@@ -13,7 +13,7 @@ OnDuty
         </Grid.RowDefinitions>
 
         <Viewbox Grid.RowSpan="2" Stretch="Fill">
-            <Canvas x:Name="株洲市公安局_left1_今日警情状态窗口" Height="725.089" UseLayoutRounding="False" VerticalAlignment="Top" Margin="0,0,0,-0.089" HorizontalAlignment="Left" Width="406">
+            <Canvas x:Name="状态窗口" Height="725.089" UseLayoutRounding="False" VerticalAlignment="Top" Margin="0,0,0,-0.089" HorizontalAlignment="Left" Width="406">
                 <Canvas x:Name="图层_2" Height="725" Canvas.Left="-8" Canvas.Top="-9" Width="406">
                     <Canvas Height="725" Canvas.Left="0" Opacity="0.41"  Canvas.Top="0" Width="406">
 
